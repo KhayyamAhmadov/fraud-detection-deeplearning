@@ -8,16 +8,17 @@ The dataset used in this project is the [Credit Card Transactions Fraud Detectio
 
 ---
 
-## 📂 Project Structure
-├── fraudTrain.csv # Training dataset
-├── fraudTest.csv # Testing dataset
-├── fraud_detection_mlp.h5 # Saved Neural Network model
-├── scaler.joblib # StandardScaler for numerical features
-├── label_encoders.joblib # Encoders for categorical features
-├── optimal_threshold.joblib # Optimal classification threshold
-├── feature_names.joblib # Saved feature names
-├── fraud_detection_ensemble.joblib (optional) # Placeholder for ensemble model
-└── fraud_detection.ipynb # Main training & evaluation script
+## Project Structure
+
+- `fraudTrain.csv` — Training dataset
+- `fraudTest.csv` — Testing dataset
+- `fraud_detection_mlp.h5` — Saved Neural Network model
+- `scaler.joblib` — StandardScaler for numerical features
+- `label_encoders.joblib` — Encoders for categorical features
+- `optimal_threshold.joblib` — Optimal classification threshold
+- `feature_names.joblib` — Saved feature names
+- `fraud_detection_ensemble.joblib` *(optional)* — Placeholder for ensemble model
+- `fraud_detection.ipynb` — Main training & evaluation script
 
 ---
 
