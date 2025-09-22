@@ -17,8 +17,7 @@ The dataset used in this project is the [Credit Card Transactions Fraud Detectio
 - `label_encoders.joblib` — Encoders for categorical features
 - `optimal_threshold.joblib` — Optimal classification threshold
 - `feature_names.joblib` — Saved feature names
-- `fraud_detection_ensemble.joblib` *(optional)* — Placeholder for ensemble model
-- `fraud_detection.ipynb` — Main training & evaluation script
+- `fraud_mlp.ipynb` — Main training & evaluation script
 
 ---
 
